@@ -1,5 +1,5 @@
 Summary:	3DM2 Management Utility
-Summary(pl):	Narzêdzie do zarz±dzania kontrolerami 3DM2
+Summary(pl.UTF-8):   NarzÄ™dzie do zarzÄ…dzania kontrolerami 3DM2
 Name:		3DM2-7000
 Version:	9.3.0.7
 Release:	1
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 3DM2 Management Utility for 3ware RAID controllers. It supports
 Escalade 7000/8000 series controlers and AMCC 3ware 9550SX/9590SE.
 
-%description -l pl
-Narzêdzie 3DM2 do zarz±dzania kontrolerami RAID 3ware. Obs³uguje
+%description -l pl.UTF-8
+NarzÄ™dzie 3DM2 do zarzÄ…dzania kontrolerami RAID 3ware. ObsÅ‚uguje
 kontrolery z serii Escalade 7000/8000 oraz AMCC 3ware 9550SX/9590SE.
 
 %prep
