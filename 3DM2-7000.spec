@@ -1,5 +1,5 @@
 Summary:	3DM2 Management Utility
-Summary(pl.UTF-8):   Narzędzie do zarządzania kontrolerami 3DM2
+Summary(pl.UTF-8):	Narzędzie do zarządzania kontrolerami 3DM2
 Name:		3DM2-7000
 Version:	9.3.0.7
 Release:	1
