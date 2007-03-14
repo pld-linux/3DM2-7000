@@ -4,7 +4,7 @@ Name:		3DM2-7000
 Version:	9.3.0.7
 Release:	1
 License:	commercial
-Group:		Development/Libraries
+Group:		Applications/System
 Source0:	http://www.3ware.com/download/Escalade7000Series/%{version}/3DM2-Linux-%{version}.tgz
 # NoSource0-md5:	49b699c1f26eac174df56c860ee7ff47
 NoSource:	0
